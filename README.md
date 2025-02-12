@@ -1,4 +1,4 @@
-# 博弈论研究与开发 | Game Theory Research & Development
+# 博弈论研究与开发 | Game Theory R&D
 
 欢迎来到博弈论研究与开发项目！这个项目专注于深入探讨博弈论中的数学理论，并通过合作开发为学术界和应用领域提供创新的解决方案。  
 Welcome to the Game Theory Research & Development project! This project focuses on exploring the mathematical theories within game theory and aims to provide innovative solutions for both academic research and practical applications through collaborative development.
